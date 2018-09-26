@@ -1,7 +1,3 @@
 aa
 
-<<<<<<< HEAD
 test
-=======
-git push
->>>>>>> kzr
